@@ -1,0 +1,18 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xyzelena",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.3"
+  }
+}
