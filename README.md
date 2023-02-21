@@ -1,9 +1,9 @@
 # hexlet-jest
 Tests with jest 
 
-Commands:
-make install 
-make publish 
-make lint
-make test
+## Commands:
+1. make install 
+2. make publish 
+3. make lint
+4. make test
 
